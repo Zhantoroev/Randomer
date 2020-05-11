@@ -1,2 +1,2 @@
 # Randomer
-kotlin
+simple android application
